@@ -48,7 +48,7 @@ $\color{#FFFFFF}{\text{✦ ✦ ✦}}$
 
 $\color{#FFFFFF}{\text{✦ ✦ ✦}}$
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31vrjbsbtvzylezv5uje2zhrd2le&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=ffffff&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+<img src="IMG_20260926_175928.jpg" width="300" height="300">
 
 ![image alt](tumblr_3f3033ba27503f4a90d94c8a352da9db_3e345cb0_640.png)
 
